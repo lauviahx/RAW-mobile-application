@@ -1,6 +1,7 @@
 # RAW-mobile-application
 
 To run the application you need to have most recent version of Xcode (Version 12.4 or above)
+Download the .zip file in the repository called 'RAW - xcode', unzip it and open in Xcode
 The application should be open in iPhone 11 Pro simulator - deployment target iOS 14.4
 
 Video showcasing the application running:
